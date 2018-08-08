@@ -1,0 +1,26 @@
+{
+  "name": "vanila",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-clean": "^0.4.0",
+    "gulp-file-include": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-obfuscate": "^0.2.9",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.1"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC"
+}

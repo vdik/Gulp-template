@@ -1,2 +1,0 @@
-# Gulp-template
-Gulp template
